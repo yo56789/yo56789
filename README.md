@@ -7,7 +7,6 @@
 - JS more specifically NodeJS
 - Python
 - C# 
-- Rust which i am learning
 
 ### Github Stats
 [![Yo56789's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo56789&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
