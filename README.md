@@ -1,12 +1,11 @@
 ## Hi, I'm Yo 👋
 
-- I do backend development using NodeJS
-- I also do other random things dependending on the day
+- Full stack developer
+- Does random things in python
 
 ### Languages I know
-- JS more specifically NodeJS
+- Javascript/Typescript
 - Python
-- C# 
 
 ### Github Stats
 [![Yo56789's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo56789&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
